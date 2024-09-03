@@ -4,6 +4,8 @@
 
 This project demonstrates the creation of a simple data pipeline that integrates data extraction from an external API, data cleaning, database management, and data visualization. The pipeline is implemented using Python and SQL, with data sourced from the Polygon API and processed into a local SQL Server database.
 
+This was completed on 7/12/24.
+
 ## Project Workflow
 
 1. **Data Extraction and Cleaning (`P1 - Data Cleaning.ipynb`)**:
